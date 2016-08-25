@@ -1,2 +1,0 @@
-# clothesProj
-hello ~~
